@@ -7434,7 +7434,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: #7090b1 !important;
 }
 
 .bg-body {
@@ -10871,4 +10871,9 @@ html {
   background-position: center;
   background-repeat: no-repeat;
   min-height: 15rem;
+}
+
+/* Shiba css */
+.logo{
+  max-width: 50%;
 }
