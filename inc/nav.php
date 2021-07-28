@@ -5,12 +5,12 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                             <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
-                            <li class="nav-item"><a class="nav-link" href="apply.html">Apply</a></li>
+                            <li class="nav-item"><a class="nav-link" href="apply.php">Apply</a></li>
                          
                        
-                            <li class="nav-item"><a class="nav-link" href="faq.html">News</a></li>
+                            <li class="nav-item"><a class="nav-link" href="news.php">News</a></li>
 
-                            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                            <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                           
                             
                         </ul>

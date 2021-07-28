@@ -7,7 +7,7 @@
                     <div class="col-auto">
                         <a class="link-light small" href="apply.php">apply</a>
                         <span class="text-white mx-1">&middot;</span>
-                        <a class="link-light small" href="admin.php">admin</a>
+                        <a class="link-light small" href="adminindex.php">admin</a>
                         <span class="text-white mx-1">&middot;</span>
                         <a class="link-light small" href="contact.php">Contact</a>
                     </div>

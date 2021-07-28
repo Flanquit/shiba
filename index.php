@@ -20,7 +20,12 @@ you need to know about us</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSxoAbuTKcdexVtTW7asoZBUktjcrwEJtDQ&usqp=CAU" alt="..." /></div>
+                        <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center">
+
+                     
+                            <img class="img-fluid rounded-3 my-5" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHSxoAbuTKcdexVtTW7asoZBUktjcrwEJtDQ&usqp=CAU" alt="..." />
+                        
+                        </div>
                     </div>
                 </div>
             </header>
@@ -68,11 +73,29 @@ and creative teachers.</p>
                             </div>
                         </div>
                         <div class="col-lg-4">
-                          <h5>News Feed</h5>
-                          <ol>
-                            <li><a href="#">headings</a></li>
-                          </ol>
 
+                        <div class="card border-0 bg-light mt-xl-5">
+                                <div class="card-body p-4 py-lg-5">
+                                    <div class="d-flex align-items-center justify-content-center">
+                                        <div class="text-center">
+                                            <div class="h6 fw-bolder">News Feed</div>
+                                            <p class="text-muted mb-4">
+                                              Letest
+                                                <br>
+                                                <a href="#!">heading</a> <br>
+                                                <a href="#!">heading</a> <br>
+                                                <a href="#!">heading</a> <br>
+                                                <a href="#!">heading</a> <br>
+                                            </p>
+                                            <div class="h6 fw-bolder">Follow us</div>
+                                            <a class="fs-5 px-2 link-dark" href="#!"><i class="bi-twitter"></i></a>
+                                            <a class="fs-5 px-2 link-dark" href="#!"><i class="bi-facebook"></i></a>
+                                            <a class="fs-5 px-2 link-dark" href="#!"><i class="bi-linkedin"></i></a>
+                                            <a class="fs-5 px-2 link-dark" href="#!"><i class="bi-youtube"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
